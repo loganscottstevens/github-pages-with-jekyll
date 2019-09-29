@@ -1,4 +1,4 @@
-## Education
+## Resume
 MiraCosta Community College
 CS111, CS112, CS150, CS113
 
